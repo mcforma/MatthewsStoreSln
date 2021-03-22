@@ -1,5 +1,7 @@
 # MatthewsStoreSln
 This is a build of the demo MVC app from Adam Freeman's ASP.NET Core 3 textbook. This is for demonstration purposes only.
+## Link
+[https://www.apress.com/gp/book/9781484254394](https://www.apress.com/gp/book/9781484254394)
 
 ## Build Script
 
