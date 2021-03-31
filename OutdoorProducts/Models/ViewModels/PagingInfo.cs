@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace OutdoorProducts.Models.ViewModels
 {
     public class PagingInfo
