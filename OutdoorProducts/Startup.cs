@@ -28,9 +28,12 @@ namespace OutdoorProducts
                 Configuration["ConnectionStrings:OutdoorProductsConnection"]);
             });
             services.AddScoped<IStoreRepository, EFStoreRepository>();
+            services.AddScoped<IOrderRepository, EFOrderRepository>();
             services.AddRazorPages();
             services.AddDistributedMemoryCache();
             services.AddSession();
+            services.AddScoped<Cart>(sp => SessionCart.GetCart(sp));
+            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
@@ -54,7 +57,6 @@ namespace OutdoorProducts
                 endpoints.MapControllerRoute("pagination",
                     "Products/Page{productPage}",
                     new { Controller = "Home", action = "Index", productPage = 1 });
-
                 endpoints.MapDefaultControllerRoute();
                 endpoints.MapRazorPages();
             });
