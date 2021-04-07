@@ -30,3 +30,15 @@ This is a build of the demo MVC app from Adam Freeman's ASP.NET Core 3 textbook.
 
 ## Successful Unit Tests through Chapter 8 Screenshot
 ## ![Successful Unit Tests through Chapter 8 Screenshot](https://github.com/mcforma/MatthewsStoreSln/blob/master/Images/Unit%20Tests%20thru%20Ch.%208_.png)
+
+## Figure 9-3 Screenshot (pg 201)
+## ![Figure 9-3 Screenshot (pg 201)](https://github.com/mcforma/MatthewsStoreSln/blob/master/Images/Figure%209-3_Cart.png)
+
+## Figure 9-4 Screenshot (pg 203)
+## ![Figure 9-4 Screenshot (pg 203)](https://github.com/mcforma/MatthewsStoreSln/blob/master/Images/Figure%209-4_Shipping%20Details%20Form.png)
+
+## Figure 9-6 Screenshot (pg 211)
+## ![Figure 9-6 Screenshot (pg 211)](https://github.com/mcforma/MatthewsStoreSln/blob/master/Images/Figure%209-6_Completed%20order.png)
+
+## Successful Unit Tests through Chapter 9 Screenshot
+## ![Successful Unit Tests through Chapter 9 Screenshot](https://github.com/mcforma/MatthewsStoreSln/blob/master/Images/Unit%20Tests%20thru%20Ch.%209.png)
