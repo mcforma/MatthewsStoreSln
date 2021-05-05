@@ -42,3 +42,24 @@ This is a build of the demo MVC app from Adam Freeman's ASP.NET Core 3 textbook.
 
 ## Successful Unit Tests through Chapter 9 Screenshot
 ## ![Successful Unit Tests through Chapter 9 Screenshot](https://github.com/mcforma/MatthewsStoreSln/blob/master/Images/Unit%20Tests%20thru%20Ch.%209.png)
+
+## Figure 10-5_Presenting list of products (pg 225)
+## ![Figure 10-5_Presenting list of products (pg 225)](https://github.com/mcforma/MatthewsStoreSln/blob/master/Images/Figure%2010-5_Presenting%20list%20of%20products.png)
+
+## Figure 10-6_Displaying details of a product (pg 227)
+## ![Figure 10-6_Displaying details of a product (pg 227)](https://github.com/mcforma/MatthewsStoreSln/blob/master/Images/Figure%2010-6_Displaying%20details%20of%20a%20product.png)
+
+## Figure 10-7_Using the Editor component (pg 229)
+## ![Figure 10-7_Using the Editor component (pg 229)](https://github.com/mcforma/MatthewsStoreSln/blob/master/Images/Figure%2010-7_Using%20the%20Editor%20component.png)
+
+## Figure 10-7 New product successfully created and added to DB (pg 229)
+## ![Figure 10-7 New product successfully created and added to DB (pg 229)](https://github.com/mcforma/MatthewsStoreSln/blob/master/Images/Figure%2010%20New%20product%20successfully%20created%20and%20added%20to%20DB.png)
+
+## Figure 10-8_Editing products (pg 229)
+## ![Figure 10-8_Editing products (pg 229)](https://github.com/mcforma/MatthewsStoreSln/blob/master/Images/Figure%2010-8_Editing%20products.png)
+
+## Figure 10-9_Deleting objects from DB_1 (pg 231)
+## ![Figure 10-9_Deleting objects from DB_1 (pg 231)](https://github.com/mcforma/MatthewsStoreSln/blob/master/Images/Figure%2010-9_Deleting%20objects%20from%20DB_1.png)
+
+## Figure 10-9_Deleting objects from DB_2 (pg 231)
+## ![Figure 10-9_Deleting objects from DB_2 (pg 231)](https://github.com/mcforma/MatthewsStoreSln/blob/master/Images/Figure%2010-9_Deleting%20objects%20from%20DB_2.png)
