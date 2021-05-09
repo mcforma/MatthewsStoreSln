@@ -63,3 +63,12 @@ This is a build of the demo MVC app from Adam Freeman's ASP.NET Core 3 textbook.
 
 ## Figure 10-9_Deleting objects from DB_2 (pg 231)
 ## ![Figure 10-9_Deleting objects from DB_2 (pg 231)](https://github.com/mcforma/MatthewsStoreSln/blob/master/Images/Figure%2010-9_Deleting%20objects%20from%20DB_2.png)
+
+## Figure 11-1_ Razor Page Admin Feature (pg 239)
+## ![Figure 11-1_ Razor Page Admin Feature (pg 239)](https://github.com/mcforma/MatthewsStoreSln/blob/master/Images/Figure%2011-1_%20Razor%20Page%20Admin%20Feature.png)
+
+## Figure 11-2_Admin authentication & authorization process_1 (pg 244)
+## ![Figure 11-2_Admin authentication & authorization process_1 (pg 244)](https://github.com/mcforma/MatthewsStoreSln/blob/master/Images/Figure%2011-2_Admin%20authentication%20%26%20authorization%20process_1.png)
+
+## Figure 11-2_Admin authentication & authorization process_2 (pg 244)
+## ![Figure 11-2_Admin authentication & authorization process_2 (pg 244)](https://github.com/mcforma/MatthewsStoreSln/blob/master/Images/Figure%2011-2_Admin%20authentication%20%26%20authorization%20process_2.png)
